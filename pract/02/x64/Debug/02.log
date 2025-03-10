@@ -1,0 +1,3 @@
+﻿  02.cpp
+D:\git\OOP-2025\pract\02\02.cpp(7,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  02.vcxproj -> D:\git\OOP-2025\pract\02\x64\Debug\02.exe
